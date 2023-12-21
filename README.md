@@ -8,10 +8,10 @@
 
 --> 
 
-- 🔭 I’m currently working on a pokemon vgc engine which utilizes Deep Q learning to solve the game of pokemon
+- 🔭 I’m currently working on a Pokemon VGC engine that utilizes Deep Q learning to solve the game of Pokemon
 - 🌱 I’m currently learning Game Theory and Reinforcement Learning
-- 👯 I’m looking to collaborate on Path Planning Simulator
-- 🤔 I’m looking for help with make a GUI for Path Planning Simulator
+- 👯 I’m looking to collaborate on the Path Planning Simulator
+- 🤔 I’m looking for help with making a GUI for Path Planning Simulator
 - 💬 Ask me about 3D Object Detection
 - 📫 How to reach me: abhishekranjansingh014@gmail.com
 - 😄 Pronouns: He/Him
