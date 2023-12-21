@@ -1,4 +1,5 @@
 ### Hi there 👋
+ I’m Abhishek Ranjan Singh, an electrical engineer with a serious love for robotics and machine learning. I laid down my academic roots at North Carolina State University and Maulana Azad National Institute of Technology in India. These places not only gave me a strong foundation but also fueled my passion for diving deep into the tech world. To learn more about my work visit https://abhishek-ee.github.io/.
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Abhishek-EE">
