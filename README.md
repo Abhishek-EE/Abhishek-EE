@@ -3,7 +3,7 @@
 
 --> 
 
-- 🔭 I’m currently working on a Pokemon VGC engine that utilizes Deep Q learning to solve the game of Pokemon
+- 🔭 I’m currently working on a Pokemon VGC engine that utilizes Deep Q learning to create a bot that can play pokemon VGC format at a competitive level
 - 🌱 I’m currently learning Game Theory and Reinforcement Learning
 - 👯 I’m looking to collaborate on the Path Planning Simulator
 - 🤔 I’m looking for help with making a GUI for Path Planning Simulator
